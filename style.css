@@ -61,8 +61,8 @@ color: white;
 font-family: sans-serif;
 }
 .menu ul li a:hover{
-    color: dodgerblue;
-    border-bottom: 3px solid dodgerblue;
+    color: rgb(163, 83, 83);
+    border-bottom: 3px solid rgb(248, 93, 106);
     padding-bottom:5px ;
 }
 .logo{
